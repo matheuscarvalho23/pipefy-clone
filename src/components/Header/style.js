@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
   height: 80px;
   padding: 0 30px;
-  background: #3b5bfd;
+  background: #222b3b linear-gradient(180deg,#252d42,#1d1f26);
   color: #FFF;
   display: flex;
   align-items: center;
